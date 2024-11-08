@@ -1,3 +1,5 @@
+Let your support start with a star. Give this repo a star to show your support for the community
+
 # Startup Clinic
 
 **Building Healthy Startups Together**
